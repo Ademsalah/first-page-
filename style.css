@@ -3,14 +3,63 @@ h1{
 }
 .adem{
     color: blue;
-    background-color: rgb(255, 0, 0);
+    text-align: center;
 }
 #str{
     background-color: red;
 }
 img{
-    width: 500px;
-}
+    width: 285px;
+    padding: 99px;
+    padding-top: 100px;
+    padding-left: 50px;
+    margin-top: -105px;
+    margin-right: -202px;
+    margin-bottom: -86px;}
 p{
-    margin-left: 400px;
+    width: 300px;
+
+    margin-left: 56px;
 }
+.product{
+    /* border: 7px;
+   border-width: 5px; */
+   border-style: solid;
+   padding: 20px 0;
+   width: 450px;
+   border-radius: 7px;
+   border-color: beige; 
+}
+.container{
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+}
+button{
+    align-items: center;
+}
+
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e19c9c;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  input{
+    text-align: right;
+  }
+  
+ 
